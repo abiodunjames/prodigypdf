@@ -1,0 +1,23 @@
+{
+    "name": "abiodunjames/prodigypdf",
+    "description": "Laravel PDF",
+    "license": "MIT",
+    "keywords": ["laravel", "dompdf", "pdf","prodigypdf"],
+    "authors": [
+        {
+            "name": "Samuel James",
+            "email": "abiodunjames@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.3.x",
+        "dompdf/dompdf": "0.6.*",
+        "phpunit/phpunit": "^6.5"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.5-dev"
+        }
+    }
+}
