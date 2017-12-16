@@ -2,8 +2,8 @@
 
 This package is based on a fork from [laravel-dompdf](https://github.com/barryvdh/laravel-dompdf), modified to meet the constraints of a laravel 5.3 project i'm currently working on. 
 
-If you need pdf package for laravel, please check [laravel-dompdf](https://github.com/barryvdh/laravel-dompdf).
-
+If you need a  pdf package for all laravel versions, please check [laravel-dompdf](https://github.com/barryvdh/laravel-dompdf).
+## Laravel 5.3
 After updating composer, add the ServiceProvider to the providers array in app/config/app.php
 
     'Abiodunjames\Prodigypdf\ServiceProvider',
