@@ -1,4 +1,4 @@
-## ProdigyPDF/ Course Certificate Sender
+## ProdigyPDF
 
 This package is based on a fork from [laravel-dompdf](https://github.com/barryvdh/laravel-dompdf), modified to meet the constraints of a laravel 5.3 project i'm currently working on. 
 
