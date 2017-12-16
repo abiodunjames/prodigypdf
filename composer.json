@@ -14,6 +14,11 @@
         "illuminate/support": "5.3.x",
         "dompdf/dompdf": "0.6.*"
     },
+    "autoload": {
+        "psr-4": {
+            "Abiodunjames\\Prodigypdf\\":"abiodunjames/prodigypdf/src"
+        }
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "0.5-dev"
