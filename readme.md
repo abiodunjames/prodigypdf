@@ -26,7 +26,7 @@ You can optionally use the facade for shorter code. Add this to your facades:
  
 You can create a new DOMPDF instance and load a HTML string, file or view name. You can save it to a file, or stream (show in browser) or download.
 
-    $pdf = App::make('larapdf');
+    $pdf = App::make('prodigypdf');
     $pdf->loadHTML('<h1>Test</h1>');
     return $pdf->stream();
 

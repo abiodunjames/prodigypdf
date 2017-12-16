@@ -12,8 +12,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "5.3.x",
-        "dompdf/dompdf": "0.6.*",
-        "phpunit/phpunit": "^6.5"
+        "dompdf/dompdf": "0.6.*"
     },
     "extra": {
         "branch-alias": {
