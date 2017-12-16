@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Abiodunjames\\Prodigypdf\\":"abiodunjames/prodigypdf/src"
+            "Abiodunjames\\Prodigypdf\\":"src/"
         }
     },
     "extra": {
